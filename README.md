@@ -52,4 +52,5 @@ A group-focused chat application aimed at improving collaborative learning.
 ---
 
 ⭐ *Focused on learning, building reliable systems, contribute to meaningful project, and growing.*
+
 ⭐ *Open to collaboration, learning, and impactful opportunities.*
