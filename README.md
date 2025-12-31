@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanzila Tahreem</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Frontend+Developer;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=550&lines=Computer+Science+Student;Full+Stack+Developer;Backend+%26+Web+Development;AI+%26+ML+Learner" />
 </p>
 
 <p align="center">
@@ -10,63 +10,43 @@
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 - 🎓 Computer Science student specializing in **AI/ML**
-- 🚀 Interested in **Frontend Development (React)** and **Machine Learning**
-- 🧠 Strong focus on **Data Structures & Algorithms**
-- 🤝 Actively looking to contribute to **Open Source projects**
-- 🌱 Preparing for **GSoC, internships & software roles**
+- 💻 **Full-Stack Developer** with strong interest in **Backend Development**
+- 🌐 Experience with **Web Development using JavaScript & React**
+- 🧠 Actively improving **Data Structures & Algorithms**
+- 🤝 Interested in **Open Source contributions & collaborative projects**
+- 🎯 Preparing for **Internships, GSoC & software engineering roles**
 
 ---
 
-### 🚀 Featured Project
-#### 📌 Study Jam Chat
-A collaborative chat platform designed to enhance group learning experiences.
+## 🚀 Featured Project
+### 📌 Study Jam Chat
+A collaborative chat application built for group study and discussions.
 
-- 💬 Real-time chat functionality  
-- 🔐 Secure authentication  
-- 🎨 Minimal and intuitive UI  
+- 💬 Real-time messaging
+- 🔐 User authentication
+- 🎨 Simple and clean UI
 
 **Tech Stack:** JavaScript, React, Firebase  
 
-➡️ *More projects under active development...*
+➡️ *More projects coming soon…*
 
 ---
 
-### 🛠 Languages & Tools
+## 🛠 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,mysql,mongodb,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,mysql,mongodb,firebase,git,github" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanzilaaaaa&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanzilaaaaa&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanzilaaaaa&theme=tokyonight" height="160"/>
-</p>
-
----
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanzilaaaaa&theme=tokyo-night" />
-</p>
-
----
-
-### 🔗 Connect With Me
+## 🔗 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/tanzila-tahreem-a0b758319/
 - 🧩 LeetCode: https://leetcode.com/u/tanzi_la/
 - 💻 GitHub: https://github.com/tanzilaaaaa
 
 ---
 
+⭐ *Always eager to learn, build, and contribute to meaningful projects.*
 ⭐ *Open to collaboration, learning, and impactful opportunities.*
