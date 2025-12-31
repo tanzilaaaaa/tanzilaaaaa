@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanzila Tahreem</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=550&lines=Computer+Science+Student;Full+Stack+Developer;Backend+%26+Web+Development;AI+%26+ML+Learner" />
+  <b>Full-Stack Developer | Frontend & Backend | AI & ML Learner)</b>
 </p>
 
 <p align="center">
@@ -11,32 +11,33 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Computer Science student specializing in **AI/ML**
-- 💻 **Full-Stack Developer** with strong interest in **Backend Development**
-- 🌐 Experience with **Web Development using JavaScript & React**
-- 🧠 Actively improving **Data Structures & Algorithms**
-- 🤝 Interested in **Open Source contributions & collaborative projects**
-- 🎯 Preparing for **Internships, GSoC & software engineering roles**
+- 🎓 Computer Science undergraduate with a focus on **Artificial Intelligence & Machine Learning**
+- 💻 **Full-Stack Developer** with hands-on experience in both **Frontend and Backend development**
+- 🌐 Hands-on experience building web applications using **JavaScript and React**
+- ⚙️ Interested in designing **backend logic, APIs, and data handling**
+- 🧠 Consistently practicing **Data Structures & Algorithms** to strengthen problem-solving
+- 🤝 Keen on **Open Source**, peer learning, and collaborative development
+- 🎯 Currently preparing for **Internships, GSoC, and entry-level software roles**
 
 ---
 
 ## 🚀 Featured Project
 ### 📌 Study Jam Chat
-A collaborative chat application built for group study and discussions.
+A group-focused chat application aimed at improving collaborative learning.
 
-- 💬 Real-time messaging
-- 🔐 User authentication
-- 🎨 Simple and clean UI
+- 💬 Real-time communication
+- 🔐 Secure user authentication
+- 🎨 Minimal, distraction-free interface
 
 **Tech Stack:** JavaScript, React, Firebase  
 
-➡️ *More projects coming soon…*
+➡️ *Actively building and improving more projects.*
 
 ---
 
 ## 🛠 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,mysql,mongodb,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,mysql,mongodb,firebase,git,github" />
 </p>
 
 ---
@@ -48,5 +49,5 @@ A collaborative chat application built for group study and discussions.
 
 ---
 
-⭐ *Always eager to learn, build, and contribute to meaningful projects.*
+⭐ *Focused on learning, building reliable systems, contribute to meaningful project, and growing.*
 ⭐ *Open to collaboration, learning, and impactful opportunities.*
