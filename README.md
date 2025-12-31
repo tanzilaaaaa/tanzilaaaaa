@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanzila Tahreem</h1>
 
 <p align="center">
-  <b>Full-Stack Developer | Frontend & Backend | AI & ML Learner)</b>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Frontend+and+Backend+Development;AI+and+ML+Learner" 
+  />
 </p>
 
 <p align="center">
