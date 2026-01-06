@@ -12,7 +12,6 @@
 
 ---
 
-##  About Me
 -  Computer Science undergraduate with a focus on **Artificial Intelligence & Machine Learning**
 -  **Full-Stack Developer** with hands-on experience in both **Frontend and Backend development**
 -  Hands-on experience building applications using **JavaScript, Python and React**
@@ -23,19 +22,6 @@
 
 ---
 
-##  Featured Project
-###  Study Jam Chat
-A group-focused chat application aimed at improving collaborative learning.
-
--  Real-time communication
--  Secure user authentication
--  Minimal, distraction-free interface
-
-**Tech Stack:** JavaScript, React, Firebase  
-
-➡️ *Actively building and improving more projects.*
-
----
 
 ## 🛠 Languages & Tools
 <p align="left">
