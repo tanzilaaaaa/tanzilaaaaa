@@ -13,12 +13,12 @@
 ---
 
 -  Computer Science undergraduate with a focus on **Artificial Intelligence & Machine Learning**
--  **Full-Stack Developer** with hands-on experience in both **Frontend and Backend development**
--  Hands-on experience building applications using **JavaScript, Python and React**
+-  **Full-Stack Developer** with hands on experience in both **Frontend and Backend development**
+-  Hands on experience building applications using **JavaScript, Python and React**
 -  Interested in designing **backend logic, APIs, and data handling**
 -  Consistently practicing **Data Structures & Algorithms** to strengthen problem-solving
 -  Keen on **Open Source**, peer learning, and collaborative development
--  Currently preparing for **Internships, GSoC, and entry-level software roles**
+-  Currently preparing for **Internships, GSoC, and entry level software roles**
 
 ---
 
