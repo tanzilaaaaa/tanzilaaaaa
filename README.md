@@ -34,7 +34,7 @@
 -  LinkedIn: https://www.linkedin.com/in/tanzila-tahreem-a0b758319/
 -  LeetCode: https://leetcode.com/u/tanzi_la/
 -  GitHub: https://github.com/tanzilaaaaa
--  How to reach me: tazilatahreem@gmail.com
+-  How to reach me: tanzilatahreem@gmail.com
 
 ---
 
